@@ -41,28 +41,30 @@ home:
   news_count: 8
   # 代表性工作
   representative:
-    - title: Zero-shot Style Transfer
+    - title:  Style Transfer
       icon: "🎨"
       image: /images/representative-works/style-transfer.jpg
       text: ""
       papers:
+        - "StyTr2:"
         - "Z*: Zero-shot"
-        - "Z-Magic:"
-        - "Sissi:"
-    - title: Diffusion Models & Flows
+        - "Arbitrary Video"
+        - "Arbitrary style transfer"
+        
+    - title: Controlable generation
       icon: "🌊"
-      image: /images/representative-works/diffusion.jpg
+      image: /images/representative-works/edit.png
       text: ""
       papers:
         - "FireFlow:"
-        - "Inversion-Free"
-    - title: Style Transfer with Transformers
-      icon: "🤖"
-      image: /images/representative-works/transformers.jpg
-      text: ""
-      papers:
-        - "StyTr2:"
-        - "Arbitrary Video"
+        - "Z-magic:"
+    # - title: Style Transfer with Transformers
+    #   icon: "🤖"
+    #   image: /images/representative-works/transformers.jpg
+    #   text: ""
+    #   papers:
+    #     - "StyTr2:"
+    #     - "Arbitrary Video"
 
 # 论文页
 publications:
