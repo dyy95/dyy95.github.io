@@ -701,7 +701,7 @@ def build(serve_mode: bool = False) -> Report:
     home_news = (pinned + [n for n in news if not n["pin"]])[: int(site["home"].get("news_count") or 8)]
     counted = [p for p in papers if p["venue_info"]["type"] in ("conference", "journal")]
     stats = {
-        "papers": len(papers),
+        # "papers": len(papers),
         "peer_reviewed": len(counted),
         # "ccf_a": sum(1 for p in counted if p["venue_info"]["rank"].upper() == "CCF-A"),
         "with_code": sum(1 for p in papers if p["repo"]),

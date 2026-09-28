@@ -3,7 +3,7 @@
 # ============================================================================
 
 title: 邓盈盈（Yingying Deng）
-url: https://yingyingdeng.github.io
+url: https://dyy95.github.io
 description: Yingying Deng's academic homepage — image style transfer, diffusion models, and generative AI.
 google_analytics:                     # 如需统计，填入你的 Google Analytics ID
 
@@ -12,15 +12,14 @@ author:
   name: Yingying Deng
   name_zh: 邓盈盈
   avatar: /images/avatar.jpg          # 替换为你的照片
-  position: Ph.D. Student             # 请根据实际情况修改
+  position: Associate professor             # 请根据实际情况修改
   affiliation: University of Science and Technology Beijing  # 请根据实际情况修改
   affiliation_short: USTB
   location: Beijing, China
-  email: your.email@example.com       # 请修改为你的实际邮箱
+  email: yingying.deng@ustb.edu.cn      # 请修改为你的实际邮箱
   links:
     scholar: https://scholar.google.com/citations?user=8N8lbJQAAAAJ
-    github: https://github.com/HolmesShuan  # 根据你的 GitHub 仓库判断
-
+   
 # 作者列表中需要加粗显示的名字
 me: [Yingying Deng]
 
