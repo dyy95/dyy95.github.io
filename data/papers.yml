@@ -1,0 +1,194 @@
+# ============================================================================
+#  论文列表 —— Yingying Deng 的研究成果
+# ============================================================================
+
+# ---------------------------------------------------------------- 2026
+- title: "Sissi: Zero-shot Style-guided Image Synthesis via Semantic-style Integration"
+  authors: [Yingying Deng, Xiangyu He, Fan Tang, Weiming Dong, Xucheng Yin]
+  venue: arXiv
+  year: 2026
+  links:
+    arxiv: https://arxiv.org/abs/2601.06605
+    code: https://github.com/HolmesShuan/Sissi-Zero-shot-Style-guided-Image-Synthesis-via-Semantic-style-Integration
+  bibtex: |
+    @article{deng2026sissi,
+        author = "Deng, Yingying and He, Xiangyu and Tang, Fan and Dong, Weiming and Yin, Xucheng",
+        title = "Sissi: Zero-shot Style-guided Image Synthesis via Semantic-style Integration",
+        journal = "arXiv preprint arXiv:2601.06605",
+        year = "2026"
+    }
+
+# ---------------------------------------------------------------- 2025
+- title: "Multi-turn Consistent Image Editing"
+  authors: [Zijun Zhou, Yingying Deng, Xiangyu He, Weiming Dong, Fan Tang]
+  venue: ICCV
+  year: 2025
+  corresponding: true
+  links:
+    arxiv: https://arxiv.org/abs/2505.04320
+    code: https://github.com/ZhouZJ-DL/Multi-turn_Consistent_Image_Editing
+    paper: https://openaccess.thecvf.com/content/ICCV2025/html/Zhou_Multi-turn_Consistent_Image_Editing_ICCV_2025_paper.html
+  bibtex: |
+    @inproceedings{zhou2025multi,
+        author = "Zhou, Zijun and Deng, Yingying and He, Xiangyu and Dong, Weiming and Tang, Fan",
+        title = "Multi-turn Consistent Image Editing",
+        booktitle = "Proceedings of the IEEE/CVF International Conference on Computer Vision",
+        year = "2025"
+    }
+
+- title: "Z-Magic: Zero-shot Multiple Attributes Guided Image Creator"
+  authors: [Yingying Deng, Xiangyu He, Fan Tang, Weiming Dong]
+  venue: CVPR
+  year: 2025
+  bibtex: |
+    @inproceedings{deng2025z,
+        author = "Deng, Yingying and He, Xiangyu and Tang, Fan and Dong, Weiming",
+        title = "Z-Magic: Zero-shot Multiple Attributes Guided Image Creator",
+        booktitle = "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Conference",
+        pages = "18390--18400",
+        year = "2025"
+    }
+
+- title: "FireFlow: Fast Inversion of Rectified Flow for Image Semantic Editing"
+  authors: [Yingying Deng, Xiangyu He, Changwang Mei, Peisong Wang, Fan Tang]
+  venue: ICML
+  year: 2025
+  links:
+    code: https://github.com/HolmesShuan/FireFlow-Fast-Inversion-of-Rectified-Flow-for-Image-Semantic-Editing
+  bibtex: |
+    @inproceedings{deng2025fireflow,
+        author = "Deng, Yingying and He, Xiangyu and Mei, Changwang and Wang, Peisong Wang and Tang, Fan",
+        title = "FireFlow: Fast Inversion of Rectified Flow for Image Semantic Editing",
+        booktitle = "Forty-second International Conference on Machine Learning",
+        year = "2025"
+    }
+
+- title: "Inversion-Free Style Transfer with Dual Rectified Flows"
+  authors: [Yingying Deng, Xiangyu He, Fan Tang, Weiming Dong, Xucheng Yin]
+  venue: arXiv
+  year: 2025
+  links:
+    arxiv: https://arxiv.org/abs/2511.20986
+    code: https://github.com/HolmesShuan/Inversion-Free-Style-Transfer-with-Dual-Rectified-Flows
+  bibtex: |
+    @article{deng2025inversion,
+        author = "Deng, Yingying and He, Xiangyu and Tang, Fan and Dong, Weiming and Yin, Xucheng",
+        title = "Inversion-Free Style Transfer with Dual Rectified Flows",
+        journal = "arXiv preprint arXiv:2511.20986",
+        year = "2025"
+    }
+
+# ---------------------------------------------------------------- 2024
+- title: "Z*: Zero-shot style transfer via attention reweighting"
+  authors: [Yingying Deng, Xiangyu He, Fan Tang, Weiming Dong]
+  corresponding: [Fan Tang]
+  venue: CVPR
+  year: 2024
+  links:
+    code: https://github.com/HolmesShuan/Zero-shot-Style-Transfer-via-Attention-Rearrangement
+  bibtex: |
+    @inproceedings{deng2024z,
+        author = "Deng, Yingying and He, Xiangyu and Tang, Fan and Dong, Weiming",
+        title = "Z*: Zero-shot style transfer via attention reweighting",
+        booktitle = "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Conference",
+        pages = "6934--6944",
+        year = "2024"
+    }
+
+# ---------------------------------------------------------------- 2022
+- title: "StyTr2: Image style transfer with transformers"
+  authors: [Yingying Deng, Fan Tang, Weiming Dong, Chongyang Ma, Xingjia Pan, Lei Wang, Changsheng Xu]
+  corresponding: [Fan Tang]
+  venue: CVPR
+  year: 2022
+  links:
+    code: https://github.com/diyiiyiii/StyTR-2
+  bibtex: |
+    @inproceedings{deng2022stytr2,
+        author = "Deng, Yingying and Tang, Fan and Dong, Weiming and Ma, Chongyang and Pan, Xingjia and Wang, Lei and Xu, Changsheng",
+        title = "StyTr2: Image style transfer with transformers",
+        booktitle = "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Conference",
+        pages = "11326--11336",
+        year = "2022"
+    }
+
+# ---------------------------------------------------------------- 2021
+- title: "Arbitrary Video Style Transfer via Multi-Channel Correlation"
+  authors: [Yingying Deng, Fan Tang, Weiming Dong, Haibin Huang, Chongyang Ma, Changsheng Xu]
+  corresponding: [Fan Tang]
+  venue: AAAI
+  year: 2021
+  links:
+    code: https://github.com/diyiiyiii/MCCNet
+  bibtex: |
+    @inproceedings{deng2021arbitrary,
+        author = "Deng, Yingying and Tang, Fan and Dong, Weiming and Huang, Haibin and Ma, Chongyang and Xu, Changsheng",
+        title = "Arbitrary Video Style Transfer via Multi-Channel Correlation",
+        booktitle = "Proceedings of the AAAI Conference on Artificial Intelligence",
+        pages = "1210--1217",
+        year = "2021"
+    }
+
+# ---------------------------------------------------------------- 2020
+- title: "Exploring the representativity of art paintings"
+  authors: [Yingying Deng, Fan Tang, Weiming Dong, Chongyang Ma, Feiyue Huang, Oliver Deussen, Changsheng Xu]
+  venue: IEEE TMM
+  year: 2020
+  links:
+    code: https://github.com/diyiiyiii/Exploring-the-Representativity-of-Art-Paintings
+  bibtex: |
+    @article{deng2020exploring,
+        author = "Deng, Yingying and Tang, Fan and Dong, Weiming and Ma, Chongyang and Huang, Feiyue and Deussen, Oliver and Xu, Changsheng",
+        title = "Exploring the representativity of art paintings",
+        journal = "IEEE Transactions on Multimedia",
+        volume = "23",
+        pages = "2794--2805",
+        year = "2020",
+        publisher = "IEEE"
+    }
+
+- title: "Arbitrary style transfer via multi-adaptation network"
+  authors: [Yingying Deng, Fan Tang, Weiming Dong, Wen Sun, Feiyue Huang, Changsheng Xu]
+  venue: ACM MM
+  year: 2020
+  links:
+    code: https://github.com/diyiiyiii/Arbitrary-Style-Transfer-via-Multi-Adaptation-Network
+  bibtex: |
+    @inproceedings{deng2020arbitrary,
+        author = "Deng, Yingying and Tang, Fan and Dong, Weiming and Sun, Wen and Huang, Feiyue and Xu, Changsheng",
+        title = "Arbitrary style transfer via multi-adaptation network",
+        booktitle = "Proceedings of the 28th ACM international conference on Multimedia",
+        pages = "2719--2727",
+        year = "2020"
+    }
+
+# ---------------------------------------------------------------- 2019
+- title: "Selective clustering for representative paintings selection"
+  authors: [Yingying Deng, Fan Tang, Weiming Dong, Fuzhang Wu, Oliver Deussen, Changsheng Xu]
+  venue: MTAP
+  year: 2019
+  bibtex: |
+    @article{deng2019selective,
+        author = "Deng, Yingying and Tang, Fan and Dong, Weiming and Wu, Fuzhang and Deussen, Oliver and Xu, Changsheng",
+        title = "Selective clustering for representative paintings selection",
+        journal = "Multimedia Tools and Applications",
+        volume = "78",
+        number = "14",
+        pages = "19305--19323",
+        year = "2019",
+        publisher = "Springer US New York"
+    }
+
+# ---------------------------------------------------------------- 2017
+- title: "Style-oriented representative paintings selection"
+  authors: [Yingying Deng, Fan Tang, Weiming Dong, Hanxing Yao, Bao-Gang Hu]
+  venue: SIGGRAPH Asia Posters
+  year: 2017
+  bibtex: |
+    @incollection{deng2017style,
+        author = "Deng, Yingying and Tang, Fan and Dong, Weiming and Yao, Hanxing and Hu, Bao-Gang",
+        title = "Style-oriented representative paintings selection",
+        booktitle = "SIGGRAPH Asia 2017 Posters",
+        pages = "1--2",
+        year = "2017"
+    }

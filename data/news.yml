@@ -1,0 +1,39 @@
+# ============================================================================
+#  新闻列表
+# ============================================================================
+# 格式：
+# - date: 2026-09-28         # 可以只写到月：2026-09
+#   icon: "🎉"               # 可选，emoji 图标
+#   text: "新闻内容，支持 **加粗** 和 [链接](https://...)"
+#   pin: true                # 可选，置顶显示
+# ============================================================================
+
+- date: 2026-01
+  icon: "📄"
+  text: "Our paper **Sissi: Zero-shot Style-guided Image Synthesis** is available on [arXiv](https://arxiv.org/abs/2601.06605)."
+
+- date: 2025-11
+  icon: "📄"
+  text: "Our paper **Inversion-Free Style Transfer with Dual Rectified Flows** is available on [arXiv](https://arxiv.org/abs/2511.20986)."
+
+- date: 2025-07
+  icon: "🎉"
+  text: "Our paper **Multi-turn Consistent Image Editing** was accepted to **ICCV 2025**! Congratulations to Zijun Zhou!"
+
+- date: 2025-02
+  icon: "🎉"
+  text: "Three papers accepted to **CVPR 2025** and **ICML 2025**! Congratulations to all collaborators!"
+
+- date: 2024-02
+  icon: "🎉"
+  text: "Our paper **Z*: Zero-shot style transfer via attention reweighting** was accepted to **CVPR 2024**."
+
+- date: 2022-03
+  icon: "🎉"
+  text: "Our paper **StyTr2: Image style transfer with transformers** was accepted to **CVPR 2022**."
+
+- date: 2021-12
+  icon: "🎉"
+  text: "Our paper **Arbitrary Video Style Transfer via Multi-Channel Correlation** was accepted to **AAAI 2021**."
+
+# 请根据实际情况添加或修改新闻

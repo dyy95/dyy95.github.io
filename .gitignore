@@ -1,0 +1,14 @@
+# 生成的网站（由 build.py 生成，GitHub Actions 会重新生成，不需要提交）
+_site/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# 编辑器 / 系统
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
