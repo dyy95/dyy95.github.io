@@ -24,18 +24,18 @@
 #    destination: Tencent Hunyuan     # 去向
 # ============================================================================
 
-- name: Fan Tang
-  name_zh: 唐帆
-  role: faculty
-  photo: /images/avatar.jpg
-  title: Professor, USTB
-  research: [2D digital humans, Image editing, Digital art generation]
-  experience:
-    - 2026–now  Professor, University of Science and Technology Beijing
-    - 2022–2026 Associate Professor, ICT, CAS
-    - 2020–2022 Assistant Professor, School of AI, Jilin University
-    - 2013–2019 Ph.D., Institute of Automation, CAS
-  links:
-    email: tfan.108@gmail.com
-    scholar: https://scholar.google.com/citations?user=PdKElfwAAAAJ&hl=en
-    github: https://github.com/tfan108
+# - name: Fan Tang
+#   name_zh: 唐帆
+#   role: faculty
+#   photo: /images/avatar.jpg
+#   title: Professor, USTB
+#   research: [2D digital humans, Image editing, Digital art generation]
+#   experience:
+#     - 2026–now  Professor, University of Science and Technology Beijing
+#     - 2022–2026 Associate Professor, ICT, CAS
+#     - 2020–2022 Assistant Professor, School of AI, Jilin University
+#     - 2013–2019 Ph.D., Institute of Automation, CAS
+#   links:
+#     email: tfan.108@gmail.com
+#     scholar: https://scholar.google.com/citations?user=PdKElfwAAAAJ&hl=en
+#     github: https://github.com/tfan108
