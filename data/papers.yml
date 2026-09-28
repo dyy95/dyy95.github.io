@@ -23,7 +23,7 @@
   authors: [Zijun Zhou, Yingying Deng, Xiangyu He, Weiming Dong, Fan Tang]
   venue: ICCV
   year: 2025
-  corresponding: true
+  corresponding: [Yingying Deng]
   links:
     arxiv: https://arxiv.org/abs/2505.04320
     code: https://github.com/ZhouZJ-DL/Multi-turn_Consistent_Image_Editing
