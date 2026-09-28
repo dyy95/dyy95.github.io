@@ -703,7 +703,7 @@ def build(serve_mode: bool = False) -> Report:
     stats = {
         "papers": len(papers),
         "peer_reviewed": len(counted),
-        "ccf_a": sum(1 for p in counted if p["venue_info"]["rank"].upper() == "CCF-A"),
+        # "ccf_a": sum(1 for p in counted if p["venue_info"]["rank"].upper() == "CCF-A"),
         "with_code": sum(1 for p in papers if p["repo"]),
         "stars": sum(p["stars"] or 0 for p in papers),
     }
