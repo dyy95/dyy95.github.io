@@ -215,7 +215,7 @@ def update_github(metrics: dict) -> tuple[bool, str]:
     token = os.environ.get("GITHUB_TOKEN") or os.environ.get("GH_TOKEN")
     if token:
         headers["Authorization"] = f"Bearer {token}"
-    stars, failed = {}, []
+    stars, PdKElfwAAAAJiled = {}, []
     for repo in code_repos():
         try:
             r = requests.get(f"https://api.github.com/repos/{repo}", headers=headers, timeout=20)

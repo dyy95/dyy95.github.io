@@ -1,26 +1,26 @@
-# 邓盈盈个人简介
+<!-- # 邓盈盈个人简介 -->
 
-我是邓盈盈，目前在北京科技大学攻读博士学位。我的研究兴趣集中在**图像风格迁移**、**扩散模型**和**生成式人工智能**领域。
+I am an Associate Professor at the School of Computer and Communication Engineering, University of Science and Technology Beijing (USTB). Before joining USTB, I was a Senior Engineer at Huawei's 2021 Laboratory from 2022 to 2025. 
 
-## 研究方向
+I received my Ph.D. in 2022 from the Institute of Automation, Chinese Academy of Sciences (CASIA), under the supervision of Prof. [Changsheng Xu](https://scholar.google.com/citations?user=hI9NRDkAAAAJ&hl=zh-CN) and Prof. [Weiming Dong](https://scholar.google.com/citations?user=WKGx4k8AAAAJ&hl=en). I received my bachelor's degree from the University of Science and Technology Beijing (USTB) in 2017.
 
-我的研究主要关注以下几个方向：
+<!-- ## 研究方向 -->
 
-- **零样本风格迁移（Zero-shot Style Transfer）**：开发无需训练即可实现图像风格迁移的方法
-- **扩散模型与流匹配（Diffusion Models & Flow Matching）**：探索基于扩散模型的快速图像编辑技术
-- **视觉生成模型（Visual Generative Models）**：利用 Transformer 和扩散模型进行图像与视频生成
+My research mainly focuses on the following directions:
+- **Style Transfer**: developing methods that achieve image style transfer
+- **Diffusion Models & Flow Matching**: exploring fast image editing techniques based on diffusion models
+- **Visual Generative Models**: leveraging Transformers and diffusion models for image and video generation
 
-## 代表性工作
+<!-- ## 代表性工作
 
 我在顶级会议和期刊上发表了多篇论文，包括：
 - **CVPR 2025**: Z-Magic (多属性引导的图像生成)
 - **ICML 2025**: FireFlow (快速 Rectified Flow 反演)
 - **CVPR 2024**: Z* (零样本风格迁移)
 - **CVPR 2022**: StyTr2 (基于 Transformer 的风格迁移)
-- **AAAI 2021**: 视频风格迁移
+- **AAAI 2021**: 视频风格迁移 -->
 
-我的研究代码开源在 [GitHub](https://github.com/HolmesShuan)，欢迎交流与合作！
 
----
+<!-- ---
 
-**注意：请根据你的实际情况修改以上内容，包括学校、研究兴趣、个人介绍等。**
+**注意：请根据你的实际情况修改以上内容，包括学校、研究兴趣、个人介绍等。** -->
